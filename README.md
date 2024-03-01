@@ -2,9 +2,27 @@
 
 PSSX is a simple and easy-to-use tool for setting brightness and Gamma when using Xrandr. It works seamlessly in Xorg environments.
 
+![Python Set Simple Xrandr](https://i.imgur.com/7PxMsde.png)
+
 ## How to Use/Install
 
-1. **Install Python3:**
+1.  **if you don't have .xprofile file in /home/user/, you can make it use text editor:**
+     ```
+     $ cd /home/(your user name)/
+     ```
+     ```
+     $ nano .xprofile
+     ```
+2. **Just insert: #**
+3. **Save it use:**
+     ```
+      Ctrl + X, press y, and Enter
+     ```
+5. **Give access to excutable:**
+     ```
+     $ chmod +x .xprofile
+     ```
+6.  **Install Python3:**
    - For Debian/Ubuntu:
      ```
      $ sudo apt install python3
@@ -14,7 +32,7 @@ PSSX is a simple and easy-to-use tool for setting brightness and Gamma when usin
      $ sudo xbps-install python3
      ```
 
-2. **Install tkinter module for Python3:**
+3. **Install tkinter module for Python3:**
    - For Debian/Ubuntu and similar distributions:
      ```
      $ sudo apt-get install python3-tk
@@ -24,9 +42,9 @@ PSSX is a simple and easy-to-use tool for setting brightness and Gamma when usin
      $ sudo xbps-install python3-tkinter
      ```
 
-3. **Download PSSX.**
-4. **Extract PSSX.**
-5. **Open PSSX_v0.0.1**
+4. **Download PSSX.**
+5. **Extract PSSX.**
+6. **Open PSSX_v0.0.1**
       ```
      $ cd PSSX_v0.0.1/
       ```
