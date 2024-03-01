@@ -1,4 +1,4 @@
-# PSSX
+# PSSX - Python Set Simple Xrandr
 
 PSSX is a simple and easy-to-use tool for setting brightness and Gamma when using Xrandr. It works seamlessly in Xorg environments.
 
