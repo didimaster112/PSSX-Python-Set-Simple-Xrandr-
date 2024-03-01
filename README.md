@@ -26,9 +26,16 @@ PSSX is a simple and easy-to-use tool for setting brightness and Gamma when usin
 
 3. **Download PSSX.**
 4. **Extract PSSX.**
-5. **Launch using Terminal *.sh file or execute it.**
-6. **Configure settings according to your preferences, then apply and close.**
-7. **Done!**
+5. **Open PSSX_v0.0.1**
+      ```
+     $ cd PSSX_v0.0.1/
+      ```
+7. **Launch using Terminal .sh file or execute it.**
+   ```
+   $ ./brightness.sh
+   ```
+8. **Configure settings according to your preferences, then apply and close.**
+9. **Done!**
 
 ## Notes
 
