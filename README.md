@@ -8,6 +8,6 @@ HOW TO USE/Install
 3. Download the PSSX
 4. Extract PSSX
 5. Launch use Terminal *.sh file or you can excute it
-====================================================================
-Done
-====================================================================
+6. Setting for you, apply > close
+7. Done
+
