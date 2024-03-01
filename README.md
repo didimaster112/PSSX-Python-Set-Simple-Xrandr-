@@ -1,4 +1,3 @@
-=====================================================================
 PSSX is a simple & easy to use for setting a brightness and Gamma
 if you using Xrandr, you can use it.
 =====================================================================
